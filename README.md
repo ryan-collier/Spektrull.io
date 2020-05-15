@@ -1,2 +1,2 @@
 # Spektrull.io
-Desktop lamp project
+Desktop activity totem project
