@@ -43,7 +43,7 @@ char auth[] = "J8pp_1mdBcepaX4IwPZKVmtz25gO3JcB";
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "FBIvan";
-char pass[] = "0X140X7F";
+char pass[] = " ";
 
 BlynkTimer timer;
 
